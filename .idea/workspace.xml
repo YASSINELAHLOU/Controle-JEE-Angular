@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6211481e-d3ab-41a8-aa51-9e7110f0d7fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Docs2021/23-apps/clientWS41" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2021/23-apps/ws41" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/dto/BankAccountRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/dto/BankAccountResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/entities/AccountProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/entities/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/enums/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/mappers/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/repositories/BankAccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/service/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docs2022/emsi-projects/bank-account-service/src/main/java/org/sid/bankaccountservice/web/AccountRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/com/example/demo1/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/com/example/demo3/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/example/demo4/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/example/demo4/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/resources/com/example/demo4/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebanking-bachend/ebanking-backend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/ext/DaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/ext/DaoImplVWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/metier/Calcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/pres/Pres2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/pres/PresSpringAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/pres/PresSpringXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/java/pres/Presentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/src/test/java/metier/CalculTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/dao/DaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/dao/IDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/ext/DaoImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/ext/DaoImplVWS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/metier/Calcul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/metier/IMetier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/metier/MetierImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/pres/Pres2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/pres/PresSpringAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/pres/PresSpringXML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/classes/pres/Presentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enset_ioc_2/target/test-classes/metier/CalculTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/Rapport_JEE_LAARIBI_LAHLOU_YASSINE_G1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/Rapport_JEE_LAARIBI_LAHLOU_YASSINE_G1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/esnet_ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/dao/DaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/dao/IDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/ext/DaoImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/ext/DaoImplVWS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/metier/IMetier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/metier/MetierImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/pres/Pres2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/out/production/esnet_ioc/pres/Presentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/ext/DaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/ext/DaoImplVWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/pres/Pres2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esnet_ioc/src/pres/Presentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/7.3.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/java/com/example/metier/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/java/com/example/metier/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/java/com/example/metier/ICatalogueMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/java/com/example/metier/SingletonConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metier/src/main/resources/com/example/metier/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patients-mvc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HjkWRbsHvzaaL0OF3ux0nU7708" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6211481e-d3ab-41a8-aa51-9e7110f0d7fa" name="Changes" comment="" />
+      <created>1668805917971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668805917971</updated>
+      <workItem from="1668805919207" duration="14000" />
+      <workItem from="1668805948561" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

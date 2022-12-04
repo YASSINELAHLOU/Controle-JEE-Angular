@@ -187,6 +187,9 @@
       <change afterPath="$PROJECT_DIR$/../metier/src/main/java/module-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../metier/src/main/resources/com/example/metier/hello-view.fxml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../patients-mvc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/feign/CustomerRestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repository/ProductItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repository/ProductItemRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,6 +228,7 @@
       <updated>1668805917971</updated>
       <workItem from="1668805919207" duration="14000" />
       <workItem from="1668805948561" duration="11000" />
+      <workItem from="1669719724782" duration="25000" />
     </task>
     <servers />
   </component>

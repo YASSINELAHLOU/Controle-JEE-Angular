@@ -33,3 +33,12 @@
 ![Capture d’écran 2022-12-13 120043](https://user-images.githubusercontent.com/85079209/207304121-5acfa6db-2e59-46ea-8fe5-96e52012c2a9.png)
 ![Capture d’écran 2022-12-13 120104](https://user-images.githubusercontent.com/85079209/207304142-acc0c10b-b5d9-4679-a616-dec59dd91644.png)
 ![Capture d’écran 2022-12-13 120144](https://user-images.githubusercontent.com/85079209/207304159-18d25c9b-53a7-4d56-870a-e97f4c161dd4.png)
+
+
+5)gateway :
+![Capture d’éc![Capture d’écran 2022-12-13 122146](https://user-images.githubusercontent.com/85079209/207305376-3828e613-56a2-4f23-bf84-dfb39ec78bd1.png)
+![Capture d’écran 2022-12-13 122146](https://user-images.githubusercontent.com/85079209/207305466-6eadfb14-68e3-4377-92ed-a5232e8ba4a0.png)
+![Capture d’écran 2022-12-13 122207](https://user-images.githubusercontent.com/85079209/207305500-414f0c8f-7bd9-486a-a828-b6aaa5c1932a.png)
+![Capture d’écran 2022-12-13 122234](https://user-images.githubusercontent.com/85079209/207305527-49898702-4da8-47c3-862f-e6c5de972768.png)
+
+

@@ -1,5 +1,6 @@
 # Controle-JEE-Angular
 1) customer-service :
+
 ![Capture d’écran 2022-11-18 231142](https://user-images.githubusercontent.com/85079209/207293578-066cae94-c8c8-4499-949e-a0a978996f75.png)
 ![Capture d’écran 2022-11-18 231306](https://user-images.githubusercontent.com/85079209/207293588-f062aa26-f3c4-4508-ae86-49939637c087.png)
 ![Capture d’écran 2022-11-18 231321](https://user-images.githubusercontent.com/85079209/207293612-ec841aca-9021-4981-8b11-3a84197e7676.png)
@@ -14,10 +15,10 @@
 
 2) inventory-service :
 
-
 ![Capture d’écran 2022-11-19 002759](https://user-images.githubusercontent.com/85079209/207298959-2566e0cb-5839-4538-97e1-39549abad2f8.png)
 ![Capture d’écran 2022-11-19 003253](https://user-images.githubusercontent.com/85079209/207298981-caa5905e-56d6-4d3e-91f3-9104c245e37d.png)
 ![Capture d’écran 2022-11-19 003315](https://user-images.githubusercontent.com/85079209/207299008-055c94fa-f2f0-483f-a614-cc6301a11836.png)
-![Capture d’écran 2022-11-19 160920](https://user-images.githubusercontent.com/85079209/207299121-5b206049-9d03-4318-a719-0017ee711e6b.png)
-![Capture d’écran 2022-11-19 160938](https://user-images.githubusercontent.com/85079209/207299158-08da4137-207d-4350-95c6-b33a18ce9add.png)
 ![Capture d’écran 2022-11-19 161002](https://user-images.githubusercontent.com/85079209/207299180-0465961b-b340-4158-91d5-753ace24c69c.png)
+![Capture d’écran 2022-11-19 183109](https://user-images.githubusercontent.com/85079209/207301389-1d594e11-7a9f-440b-91ca-541df089ade1.png)
+![Capture d’écran 2022-11-19 183128](https://user-images.githubusercontent.com/85079209/207301408-9e6e681c-a82c-424c-8d26-9afda2f36689.png)
+![Capture d’écran 2022-11-19 183309](https://user-images.githubusercontent.com/85079209/207301459-59b51bdf-4697-48ef-b6f7-d3a87903e0b3.png)

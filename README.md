@@ -36,7 +36,7 @@
 
 
 5)gateway :
-![Capture d’éc![Capture d’écran 2022-12-13 122146](https://user-images.githubusercontent.com/85079209/207305376-3828e613-56a2-4f23-bf84-dfb39ec78bd1.png)
+![Capture d’écran 2022-12-13 120104](https://user-images.githubusercontent.com/85079209/207305982-24080854-71e2-414b-989d-f330c889e80d.png)
 ![Capture d’écran 2022-12-13 122146](https://user-images.githubusercontent.com/85079209/207305466-6eadfb14-68e3-4377-92ed-a5232e8ba4a0.png)
 ![Capture d’écran 2022-12-13 122207](https://user-images.githubusercontent.com/85079209/207305500-414f0c8f-7bd9-486a-a828-b6aaa5c1932a.png)
 ![Capture d’écran 2022-12-13 122234](https://user-images.githubusercontent.com/85079209/207305527-49898702-4da8-47c3-862f-e6c5de972768.png)

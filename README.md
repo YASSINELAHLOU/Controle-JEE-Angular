@@ -7,8 +7,10 @@
 ![Capture d’écran 2022-11-18 231544](https://user-images.githubusercontent.com/85079209/207293659-65b1d76c-e076-46bd-babb-084d73ed9e9b.png)
 ![Capture d’écran 2022-11-18 231948](https://user-images.githubusercontent.com/85079209/207293677-219d90fe-faee-4475-bb55-a41a664d2d7c.png)
 ![Capture d’écran 2022-11-18 233217](https://user-images.githubusercontent.com/85079209/207293691-38ea7d32-8a3d-4e43-9a8e-5edf7eff563d.png)
-![Capture d’écran 2022-11-19 160818](https://user-images.githubusercontent.com/85079209/207299380-63f335e4-be3e-4b78-b4ff-b5301013a664.png)
-![Capture d’écran 2022-11-19 160837](https://user-images.githubusercontent.com/85079209/207299400-0950b194-6b27-43ca-9198-79baaf139b6b.png)
+![Capture d’écran 2022-11-19 183413](https://user-images.githubusercontent.com/85079209/207301047-cff5a3a8-97ec-4593-9cc1-facd2415a51b.png)
+![Capture d’écran 2022-11-19 183426](https://user-images.githubusercontent.com/85079209/207301066-6c563648-93bd-49e0-a4b5-13ca86d93454.png)
+![Capture d’écran 2022-11-19 183454](https://user-images.githubusercontent.com/85079209/207301088-f3093c3d-e598-4430-ad9d-0e46dc910725.png)
+
 
 2) inventory-service :
 

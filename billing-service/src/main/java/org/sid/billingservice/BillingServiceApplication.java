@@ -3,7 +3,7 @@ package org.sid.billingservice;
 import org.sid.billingservice.entities.Bill;
 import org.sid.billingservice.entities.ProductItem;
 import org.sid.billingservice.feign.CustomerRestClient;
-import org.sid.billingservice.feign.ProductItemRestClient;
+import org.sid.billingservice.services.ProductItemRestClient;
 import org.sid.billingservice.model.Customer;
 import org.sid.billingservice.model.Product;
 import org.sid.billingservice.repository.BillRepository;

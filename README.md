@@ -22,3 +22,14 @@
 ![Capture d’écran 2022-11-19 183109](https://user-images.githubusercontent.com/85079209/207301389-1d594e11-7a9f-440b-91ca-541df089ade1.png)
 ![Capture d’écran 2022-11-19 183128](https://user-images.githubusercontent.com/85079209/207301408-9e6e681c-a82c-424c-8d26-9afda2f36689.png)
 ![Capture d’écran 2022-11-19 183309](https://user-images.githubusercontent.com/85079209/207301459-59b51bdf-4697-48ef-b6f7-d3a87903e0b3.png)
+![Capture d’écran 2022-12-04 163832](https://user-images.githubusercontent.com/85079209/207303626-7ba38ac9-b00e-49c6-b965-ba65054a9411.png)
+
+3) billing-service :
+![Capture d’écran 2022-12-04 175912](https://user-images.githubusercontent.com/85079209/207303738-30195545-75ea-461e-8570-230b9a497745.png)
+![Capture d’écran 2022-12-04 163720](https://user-images.githubusercontent.com/85079209/207303811-677119d2-a7c6-4a92-8785-3ca9a10fbcff.png)
+
+
+4) eureka-discovery :
+![Capture d’écran 2022-12-13 120043](https://user-images.githubusercontent.com/85079209/207304121-5acfa6db-2e59-46ea-8fe5-96e52012c2a9.png)
+![Capture d’écran 2022-12-13 120104](https://user-images.githubusercontent.com/85079209/207304142-acc0c10b-b5d9-4679-a616-dec59dd91644.png)
+![Capture d’écran 2022-12-13 120144](https://user-images.githubusercontent.com/85079209/207304159-18d25c9b-53a7-4d56-870a-e97f4c161dd4.png)
